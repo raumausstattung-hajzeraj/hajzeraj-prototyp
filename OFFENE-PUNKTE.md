@@ -15,7 +15,7 @@ Zeichen: `[ ]` = offen · `[x]` = erledigt · `[-]` = bewusst weggelassen
 
 ## 0 · Start (macht Claude allein beim allerersten Mal – zählt nicht mit)
 
-- [ ] **Start-Check:** Claude passt die Website-Adresse an das neue GitHub-Konto an und prüft, ob alles läuft.
+- [x] **Start-Check:** Claude passt die Website-Adresse an das neue GitHub-Konto an und prüft, ob alles läuft.
 
 ## A · Mit Enver klären (je ein kurzes Gespräch)
 
