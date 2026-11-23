@@ -1,12 +1,15 @@
-# Prototyp – Raumausstattung Enver Hajzeraj
+# Website – Raumausstattung Enver Hajzeraj
 
-Gestaltungs-Prototyp für eine neue Website der Raumausstattung Enver Hajzeraj (Frankfurt am Main, seit 1988).
+Neue Website für die Raumausstattung Enver Hajzeraj (Frankfurt am Main, seit 1988) – zurzeit als Prototyp.
 
-- **Ansehen:** https://justolgay.github.io/hajzeraj-prototyp/
-- **Website-Audit der bestehenden Seite:** https://justolgay.github.io/hajzeraj-prototyp/audit.html
+- **Website ansehen:** https://justolgay.github.io/hajzeraj-prototyp/
+- **Analyse der alten Website:** https://justolgay.github.io/hajzeraj-prototyp/audit.html
+- **Was noch zu tun ist:** [OFFENE-PUNKTE.md](OFFENE-PUNKTE.md)
+- **Anleitung für Kachu:** [ANLEITUNG-KACHU.pdf](ANLEITUNG-KACHU.pdf)
+- **Hinweise für Claude:** [CLAUDE.md](CLAUDE.md)
 
-Hinweise:
-- Statische Website (HTML/CSS/JS), ohne Tracking, ohne Cookies, Schriften selbst gehostet.
-- Stimmungsbilder sind KI-generierte Beispielbilder (Platzhalter). Porträts: Olgay Özkan Fotografie.
-- Rechtstexte (Impressum, Datenschutz) sind Entwürfe und vor einem Livegang zu prüfen.
+Gut zu wissen:
+- Statische Website ohne Tracking und ohne Cookies, Schriften selbst gehostet.
+- Die großen Stimmungsbilder sind KI-generierte Beispielbilder. Porträts: Olgay Özkan Fotografie.
+- Impressum und Datenschutz sind Entwürfe und werden vor dem echten Start geprüft.
 - Der Prototyp ist für Suchmaschinen gesperrt (noindex, robots.txt).
