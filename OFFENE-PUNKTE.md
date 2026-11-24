@@ -19,7 +19,7 @@ Zeichen: `[ ]` = offen · `[x]` = erledigt · `[-]` = bewusst weggelassen
 
 ## A · Mit Enver klären (je ein kurzes Gespräch)
 
-- [ ] **1. Firmenfarbe.** Die Website nutzt im Moment ein Moosgrün als Platzhalter.
+- [x] **1. Firmenfarbe.** Die Website nutzt im Moment ein Moosgrün als Platzhalter.
   → *Was Claude braucht:* ein Foto von Envers Visitenkarte (einfach ins Chatfenster ziehen) oder den Farbcode von der Druckerei.
 
 - [ ] **2. Leistungen bestätigen.** Auf der Seite „Leistungen“ stehen Angebote, die wir aus den Referenzfotos abgeleitet haben. Sie sind mit einem kleinen Schild **„prüfen“** markiert.
