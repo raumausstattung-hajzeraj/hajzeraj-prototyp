@@ -22,7 +22,7 @@ Zeichen: `[ ]` = offen · `[x]` = erledigt · `[-]` = bewusst weggelassen
 - [x] **1. Firmenfarbe.** Die Website nutzt im Moment ein Moosgrün als Platzhalter.
   → *Was Claude braucht:* ein Foto von Envers Visitenkarte (einfach ins Chatfenster ziehen) oder den Farbcode von der Druckerei.
 
-- [ ] **2. Leistungen bestätigen.** Auf der Seite „Leistungen“ stehen Angebote, die wir aus den Referenzfotos abgeleitet haben. Sie sind mit einem kleinen Schild **„prüfen“** markiert.
+- [x] **2. Leistungen bestätigen.** Auf der Seite „Leistungen“ stehen Angebote, die wir aus den Referenzfotos abgeleitet haben. Sie sind mit einem kleinen Schild **„prüfen“** markiert.
   → *Frage an Enver:* Bietest du das an? Parkett · Designbeläge · Teppichfliesen · Untergrund/Beschichtung/Estrich · Wandgestaltung · Sonnenschutz & Raumtextilien · Bäder · Dachterrassen mit Holzdeck · Abstimmung mit Architekten · Umbauten im laufenden Betrieb. Fehlt etwas Wichtiges?
 
 - [ ] **3. Kundennamen.** Auf der Startseite laufen Namen wie Marriott, Sony PlayStation, Boss, DB Schenker durch.
