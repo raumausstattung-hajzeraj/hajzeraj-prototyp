@@ -34,6 +34,7 @@ Zeichen: `[ ]` = offen · `[x]` = erledigt · `[-]` = bewusst weggelassen
 
 - [ ] **5. Team.** Auf „Über uns“ stehen alle 8 Personen.
   → *Frage an Enver:* Sind alle Namen richtig geschrieben (z. B. „Sigmund Ajzeraj“)? Wie heißt der Gründer mit Vornamen – oder soll „Senior Hajzeraj“ bleiben? Sind alle mit ihrem Foto auf der Website einverstanden?
+  ✓ Teilweise erledigt: Team mit neuen Fotos aktualisiert (neu: Florian Hübscher, Gheorghe Banciu, Obrad Tomic, Andrei Efros, Vladica Jovanovic, Jan Kulanga, David Pham, Elias Bosuter; „Sikmond“ statt „Sigmund“; Ekrem Sinani raus). Noch offen: Vorname des Gründers? Wer hat die neuen Fotos gemacht (Bildnachweis)?
 
 - [ ] **6. Erreichbarkeit.** Auf der Kontaktseite fehlen Bürozeiten.
   → *Frage an Enver:* Wann ist das Büro erreichbar? (Oder: keine Zeiten angeben.)
@@ -43,7 +44,7 @@ Zeichen: `[ ]` = offen · `[x]` = erledigt · `[-]` = bewusst weggelassen
 
 ## B · Neue Fotos
 
-- [ ] **8. Neue Teamfotos.** Sobald die neuen Mitarbeiterfotos da sind: einfach ins Chatfenster ziehen und dazuschreiben, wer drauf ist. Claude tauscht sie aus.
+- [x] **8. Neue Teamfotos.** Sobald die neuen Mitarbeiterfotos da sind: einfach ins Chatfenster ziehen und dazuschreiben, wer drauf ist. Claude tauscht sie aus.
 
 - [ ] **9. Echte Projektfotos (Wunsch).** Die großen Stimmungsbilder (z. B. der Raum mit dem grünen Sessel) sind KI-Beispielbilder und unten rechts mit „Beispielbild“ markiert. Schöne, eigene Projektfotos machen die Seite noch echter.
   → *Kachu:* gute Fotos von fertigen Projekten sammeln (gerne vom Fotografen) und Claude geben.
