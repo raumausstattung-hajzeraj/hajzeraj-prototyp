@@ -28,8 +28,9 @@ Zeichen: `[ ]` = offen · `[x]` = erledigt · `[-]` = bewusst weggelassen
 - [x] **3. Kundennamen.** Auf der Startseite laufen Namen wie Marriott, Sony PlayStation, Boss, DB Schenker durch.
   → *Frage an Enver:* Dürfen wir diese Namen öffentlich nennen? Sollen welche weg?
 
-- [ ] **4. Referenzliste prüfen.** Auf der Seite „Referenzen“ stehen 40 Projekte mit Ort, Branche und Kategorie (Gewerbe / Privat / Öffentlich).
+- [x] **4. Referenzliste prüfen.** Auf der Seite „Referenzen“ stehen 40 Projekte mit Ort, Branche und Kategorie (Gewerbe / Privat / Öffentlich).
   → *Frage an Enver:* Stimmt die Einordnung? Besonders: Nr. 3 Siesmayerstraße, 5 Schumm & Rösch, 11 Holm, 17 Bockenheimer Anlage, 20 Cargolux, 29 Japantower (offizieller Name?), 30 Inteva, 32 Fachwerkhäuser, 36 Opticon. Gibt es neuere Projekte, die fehlen?
+  ✓ Enver: Einordnung passt. 19 neue Projekte ergänzt (Nr. 41–59). Kleine Rückfrage offen: Was für ein Betrieb ist **FLC Frankfurt** (Nr. 58)? Steht vorläufig als „Büro“ mit Schild „prüfen“.
 
 - [ ] **5. Team.** Auf „Über uns“ stehen alle 8 Personen.
   → *Frage an Enver:* Sind alle Namen richtig geschrieben (z. B. „Sigmund Ajzeraj“)? Wie heißt der Gründer mit Vornamen – oder soll „Senior Hajzeraj“ bleiben? Sind alle mit ihrem Foto auf der Website einverstanden?
