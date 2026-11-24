@@ -32,9 +32,9 @@ Zeichen: `[ ]` = offen · `[x]` = erledigt · `[-]` = bewusst weggelassen
   → *Frage an Enver:* Stimmt die Einordnung? Besonders: Nr. 3 Siesmayerstraße, 5 Schumm & Rösch, 11 Holm, 17 Bockenheimer Anlage, 20 Cargolux, 29 Japantower (offizieller Name?), 30 Inteva, 32 Fachwerkhäuser, 36 Opticon. Gibt es neuere Projekte, die fehlen?
   ✓ Enver: Einordnung passt. 19 neue Projekte ergänzt (Nr. 41–59). Kleine Rückfrage offen: Was für ein Betrieb ist **FLC Frankfurt** (Nr. 58)? Steht vorläufig als „Büro“ mit Schild „prüfen“. Zu einigen der neuen Projekte schickt Kachu später noch Fotos.
 
-- [ ] **5. Team.** Auf „Über uns“ stehen alle 8 Personen.
+- [x] **5. Team.** Auf „Über uns“ stehen alle 8 Personen.
   → *Frage an Enver:* Sind alle Namen richtig geschrieben (z. B. „Sigmund Ajzeraj“)? Wie heißt der Gründer mit Vornamen – oder soll „Senior Hajzeraj“ bleiben? Sind alle mit ihrem Foto auf der Website einverstanden?
-  ✓ Teilweise erledigt: Team mit neuen Fotos aktualisiert (neu: Florian Hübscher, Gheorghe Banciu, Obrad Tomic, Andrei Efros, Vladica Jovanovic, Jan Kulanga, David Pham, Elias Bosuter; „Sikmond“ statt „Sigmund“; Ekrem Sinani raus). Noch offen: Vorname des Gründers? (Bildnachweis: Mario Bella, erledigt.)
+  ✓ Teilweise erledigt: Team mit neuen Fotos aktualisiert (neu: Florian Hübscher, Gheorghe Banciu, Obrad Tomic, Andrei Efros, Vladica Jovanovic, Jan Kulanga, David Pham, Elias Bosuter; „Sikmond“ statt „Sigmund“; Ekrem Sinani raus). „Senior Hajzeraj“ bleibt (Wunsch Enver). (Bildnachweis: Mario Bella, erledigt.)
 
 - [ ] **6. Erreichbarkeit.** Auf der Kontaktseite fehlen Bürozeiten.
   → *Frage an Enver:* Wann ist das Büro erreichbar? (Oder: keine Zeiten angeben.)
