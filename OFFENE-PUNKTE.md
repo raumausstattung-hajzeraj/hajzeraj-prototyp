@@ -25,7 +25,7 @@ Zeichen: `[ ]` = offen · `[x]` = erledigt · `[-]` = bewusst weggelassen
 - [x] **2. Leistungen bestätigen.** Auf der Seite „Leistungen“ stehen Angebote, die wir aus den Referenzfotos abgeleitet haben. Sie sind mit einem kleinen Schild **„prüfen“** markiert.
   → *Frage an Enver:* Bietest du das an? Parkett · Designbeläge · Teppichfliesen · Untergrund/Beschichtung/Estrich · Wandgestaltung · Sonnenschutz & Raumtextilien · Bäder · Dachterrassen mit Holzdeck · Abstimmung mit Architekten · Umbauten im laufenden Betrieb. Fehlt etwas Wichtiges?
 
-- [ ] **3. Kundennamen.** Auf der Startseite laufen Namen wie Marriott, Sony PlayStation, Boss, DB Schenker durch.
+- [x] **3. Kundennamen.** Auf der Startseite laufen Namen wie Marriott, Sony PlayStation, Boss, DB Schenker durch.
   → *Frage an Enver:* Dürfen wir diese Namen öffentlich nennen? Sollen welche weg?
 
 - [ ] **4. Referenzliste prüfen.** Auf der Seite „Referenzen“ stehen 40 Projekte mit Ort, Branche und Kategorie (Gewerbe / Privat / Öffentlich).
