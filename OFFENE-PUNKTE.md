@@ -36,8 +36,9 @@ Zeichen: `[ ]` = offen · `[x]` = erledigt · `[-]` = bewusst weggelassen
   → *Frage an Enver:* Sind alle Namen richtig geschrieben (z. B. „Sigmund Ajzeraj“)? Wie heißt der Gründer mit Vornamen – oder soll „Senior Hajzeraj“ bleiben? Sind alle mit ihrem Foto auf der Website einverstanden?
   ✓ Teilweise erledigt: Team mit neuen Fotos aktualisiert (neu: Florian Hübscher, Gheorghe Banciu, Obrad Tomic, Andrei Efros, Vladica Jovanovic, Jan Kulanga, David Pham, Elias Bosuter; „Sikmond“ statt „Sigmund“; Ekrem Sinani raus). „Senior Hajzeraj“ bleibt (Wunsch Enver). (Bildnachweis: Mario Bella, erledigt.)
 
-- [ ] **6. Erreichbarkeit.** Auf der Kontaktseite fehlen Bürozeiten.
+- [x] **6. Erreichbarkeit.** Auf der Kontaktseite fehlen Bürozeiten.
   → *Frage an Enver:* Wann ist das Büro erreichbar? (Oder: keine Zeiten angeben.)
+  ✓ Enver: keine Zeiten angeben. Zeile entfernt.
 
 - [ ] **7. Kartenposition.** Die Markierung auf der Karte (Kontaktseite) ist geschätzt.
   → *Kachu:* Auf der Kontaktseite „Karte laden“ klicken und schauen, ob der Punkt auf der Kölner Str. 12 sitzt.
