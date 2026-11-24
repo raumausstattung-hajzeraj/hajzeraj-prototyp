@@ -40,8 +40,9 @@ Zeichen: `[ ]` = offen · `[x]` = erledigt · `[-]` = bewusst weggelassen
   → *Frage an Enver:* Wann ist das Büro erreichbar? (Oder: keine Zeiten angeben.)
   ✓ Enver: keine Zeiten angeben. Zeile entfernt.
 
-- [ ] **7. Kartenposition.** Die Markierung auf der Karte (Kontaktseite) ist geschätzt.
+- [x] **7. Kartenposition.** Die Markierung auf der Karte (Kontaktseite) ist geschätzt.
   → *Kachu:* Auf der Kontaktseite „Karte laden“ klicken und schauen, ob der Punkt auf der Kölner Str. 12 sitzt.
+  ✓ Kachu hat die genaue Stelle aus Google Maps geschickt (50.10783, 8.65076). Punkt versetzt.
 
 ## B · Neue Fotos
 

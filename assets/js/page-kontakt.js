@@ -82,7 +82,7 @@
     var btn = $('[data-map-load]');
     var ph = $('[data-map-ph]');
     if (!map || !btn || !ph) return;
-    var SRC = 'https://www.openstreetmap.org/export/embed.html?bbox=8.6410%2C50.1010%2C8.6560%2C50.1080&layer=mapnik&marker=50.1046%2C8.6487';
+    var SRC = 'https://www.openstreetmap.org/export/embed.html?bbox=8.6433%2C50.1043%2C8.6583%2C50.1113&layer=mapnik&marker=50.10783%2C8.65076';
 
     btn.addEventListener('click', function () {
       if (map.querySelector('iframe')) return;
