@@ -57,8 +57,9 @@ Zeichen: `[ ]` = offen · `[x]` = erledigt · `[-]` = bewusst weggelassen
   → *Was Claude braucht:* Rechtsform (z. B. Einzelunternehmen), zuständige Handwerkskammer, Nummer in der Handwerksrolle, genaue Berufsbezeichnung. Das steht auf Envers Unterlagen von der Handwerkskammer.
   ✓ Teilweise erledigt: Einzelunternehmen, Handwerkskammer Frankfurt-Rhein-Main, Betriebsnummer 4238644, zulassungsfreies Handwerk Raumausstatter (aus der Handwerkskarte). Verbraucherstreitbeilegung: Enver nimmt nicht teil – eingetragen.
 
-- [ ] **11. Datenschutz prüfen lassen.** Die Datenschutzerklärung ist ein guter Entwurf, aber kein Rechtsrat.
+- [x] **11. Datenschutz prüfen lassen.** Die Datenschutzerklärung ist ein guter Entwurf, aber kein Rechtsrat.
   → *Kachu/Enver:* einmal mit einem Datenschutz-Generator (z. B. eRecht24) oder einem Anwalt abgleichen. Claude übernimmt danach den fertigen Text.
+  ✓ Text von eRecht24 (kostenlos) übernommen, Telefonnummer korrigiert. Die Abschnitte „Kontaktformular“ und „Karte (OpenStreetMap)“ fehlten bei eRecht24 und stammen aus dem eigenen Entwurf (mit „prüfen“ markiert) – beim Anschluss des Formulars (Punkt 12) mit prüfen lassen.
 
 ## D · Vor dem echten Start (später, zusammen mit Olgay)
 

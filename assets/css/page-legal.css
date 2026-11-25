@@ -53,3 +53,8 @@ html.hide-todos .todo-note{display:none}
 .err .h1{max-width:none;font-size:clamp(2.6rem,4.6vw,4.6rem);margin-top:clamp(20px,2.4vw,32px)}
 .err .actions{margin-bottom:clamp(28px,3vw,44px)}
 .err__links{display:grid;gap:18px;justify-items:start}
+/* Zwischenüberschriften (Datenschutzerklärung) */
+.legal__sec h3{margin-top:2em;font-family:var(--font-ui);font-weight:500;font-size:1.0625rem;line-height:1.5;color:var(--ink)}
+.legal__sec h4{margin-top:1.4em;font-family:var(--font-ui);font-weight:500;font-size:1rem;line-height:1.5;color:var(--ink)}
+.legal__sec h2+h3,.legal__sec p+h3{margin-top:1.6em}
+.legal__sec h3+p,.legal__sec h4+p,.legal__sec h3+h4,.legal__sec h3+address,.legal__sec p+address,.legal__sec address+p,.legal__sec ul+p,.legal__sec p+ul{margin-top:.6em}
