@@ -55,6 +55,7 @@ Zeichen: `[ ]` = offen · `[x]` = erledigt · `[-]` = bewusst weggelassen
 
 - [ ] **10. Impressum ergänzen.**
   → *Was Claude braucht:* Rechtsform (z. B. Einzelunternehmen), zuständige Handwerkskammer, Nummer in der Handwerksrolle, genaue Berufsbezeichnung. Das steht auf Envers Unterlagen von der Handwerkskammer.
+  ✓ Teilweise erledigt: Einzelunternehmen, Handwerkskammer Frankfurt-Rhein-Main, Betriebsnummer 4238644, zulassungsfreies Handwerk Raumausstatter (aus der Handwerkskarte). Noch offen: Verbraucherstreitbeilegung – nimmt Enver an Schlichtungsverfahren teil (meist: nein)?
 
 - [ ] **11. Datenschutz prüfen lassen.** Die Datenschutzerklärung ist ein guter Entwurf, aber kein Rechtsrat.
   → *Kachu/Enver:* einmal mit einem Datenschutz-Generator (z. B. eRecht24) oder einem Anwalt abgleichen. Claude übernimmt danach den fertigen Text.
